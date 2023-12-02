@@ -14,5 +14,5 @@ Feature: Calculator
     Examples:
       | first | second | result |
       | 1     | 12     | 13     |
-      | -1    | 6      | 5  	    |
-      | 2     | 2      | 4	    |
+      | -1    | 6      | 5      |
+      | 2     | 2      | 4      |
